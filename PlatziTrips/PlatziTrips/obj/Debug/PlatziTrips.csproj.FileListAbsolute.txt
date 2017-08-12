@@ -1,0 +1,5 @@
+/Users/lucy/Projects/PlatziTrips/PlatziTrips/bin/Debug/PlatziTrips.dll
+/Users/lucy/Projects/PlatziTrips/PlatziTrips/bin/Debug/PlatziTrips.pdb
+/Users/lucy/Projects/PlatziTrips/PlatziTrips/obj/Debug/PlatziTrips.csproj.CoreCompileInputs.cache
+/Users/lucy/Projects/PlatziTrips/PlatziTrips/obj/Debug/PlatziTrips.dll
+/Users/lucy/Projects/PlatziTrips/PlatziTrips/obj/Debug/PlatziTrips.pdb
